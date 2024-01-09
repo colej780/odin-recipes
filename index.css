@@ -1,0 +1,27 @@
+h1 {
+    border:outset;
+    background-color:skyblue;
+    color:white;
+    margin-top:0px;
+}
+
+p {
+    border:solid 3px skyblue;
+    margin:2px;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+
+ul {
+    text-align:center;
+    border:solid 3px skyblue;
+    margin-left:320px;
+    margin-right:320px;
+    color:skyblue;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+
+h1, p {
+    text-align:center;
+}
